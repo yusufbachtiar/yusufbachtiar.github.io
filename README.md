@@ -1,3 +1,3 @@
 # Hello
 
- - [Kelas CodeIgniter](yusufbachtiar.github.io/kelas-codeigniter)
+ - [Kelas CodeIgniter](kelas-codeigniter)
